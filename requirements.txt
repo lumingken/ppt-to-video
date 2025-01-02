@@ -1,0 +1,8 @@
+fastapi
+python-multipart
+uvicorn
+python-pptx
+pillow
+comtypes
+edge-tts
+moviepy 
